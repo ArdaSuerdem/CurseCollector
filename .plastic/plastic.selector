@@ -1,0 +1,4 @@
+repository "Curse_Collector 2026-10-09_12-57-43/Curse_Collector@18967740983312@cloud"
+  path "/"
+    br "/main"
+    co "/main"
